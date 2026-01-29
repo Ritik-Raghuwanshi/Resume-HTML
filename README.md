@@ -57,14 +57,14 @@ You can open the project using any of the following methods:
 https://ritik-raghuwanshi.github.io/Resume-HTML/
 
 
-## 📸 Screenshots : 
+## 📸 Screenshots 
 
 Below is a preview of the resume website:
 
 <img width="1735" height="972" alt="image" src="https://github.com/Ritik-Raghuwanshi/Resume-HTML/blob/main/Resume.png" />
 
 
-## Contact : 
+## Contact 
 
 Your Name - https://x.com/ritikraghu_dev - raghuwanshritik871@gmial.com
 
